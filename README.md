@@ -8,6 +8,8 @@ The proposed solutions achieved high performance metrics, indicating their effic
 
 This work contributes to the field of Electronic Health Record (EHR) by providing a comprehensive framework for the intelligent analysis of EEG reports, which could potentially enhance diagnostic study process and patient care.
 
+
+
 Workflow for EEG Report Classification:
 
 ![image](https://github.com/user-attachments/assets/677aab2e-9561-4bda-b9d4-6ae3b6ad7601)
