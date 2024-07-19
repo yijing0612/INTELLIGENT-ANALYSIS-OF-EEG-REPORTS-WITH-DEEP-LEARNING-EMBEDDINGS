@@ -7,3 +7,10 @@ The study employs several methodologies, including the use of Bi-LSTM for pseudo
 The proposed solutions achieved high performance metrics, indicating their efficacy in handling the complexity of medical text data. Furthermore, expert evaluations by neurologists corroborate the utility and accuracy of the system in clinical settings.
 
 This work contributes to the field of Electronic Health Record (EHR) by providing a comprehensive framework for the intelligent analysis of EEG reports, which could potentially enhance diagnostic study process and patient care.
+
+![image](https://github.com/user-attachments/assets/5e8f891b-c881-4180-b391-250c75abd219)
+
+![image](https://github.com/user-attachments/assets/df8a70ff-b316-4084-bbca-87a28940c993)
+
+![image](https://github.com/user-attachments/assets/baab7ee2-cd24-49a1-bb5c-36eee1c6baff)
+
