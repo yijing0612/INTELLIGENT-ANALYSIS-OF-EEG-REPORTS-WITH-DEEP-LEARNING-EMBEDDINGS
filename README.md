@@ -6,9 +6,7 @@ The study employs several methodologies, including the use of Bi-LSTM for pseudo
 
 The proposed solutions achieved high performance metrics, indicating their efficacy in handling the complexity of medical text data. Furthermore, expert evaluations by neurologists corroborate the utility and accuracy of the system in clinical settings.
 
-This work contributes to the field of Electronic Health Record (EHR) by providing a comprehensive framework for the intelligent analysis of EEG reports, which could potentially enhance diagnostic study process and patient care.
-
-
+This work contributes to the field of Electronic Health Record (EHR) by providing a comprehensive framework for the intelligent analysis of EEG reports, which could potentially enhance diagnostic study process and patient care. <br>
 
 Workflow for EEG Report Classification:
 
