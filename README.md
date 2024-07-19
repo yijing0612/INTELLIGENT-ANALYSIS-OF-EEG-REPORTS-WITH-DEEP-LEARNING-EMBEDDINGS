@@ -12,10 +12,11 @@ Workflow for EEG Report Classification:
 
 ![image](https://github.com/user-attachments/assets/677aab2e-9561-4bda-b9d4-6ae3b6ad7601)
 
-
 Workflow for Topic Modelling:
+
 ![image](https://github.com/user-attachments/assets/df8a70ff-b316-4084-bbca-87a28940c993)
 
 System Architecture for RAG Document Retrieval:
+
 ![image](https://github.com/user-attachments/assets/baab7ee2-cd24-49a1-bb5c-36eee1c6baff)
 
